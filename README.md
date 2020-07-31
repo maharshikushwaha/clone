@@ -5,7 +5,7 @@ This script is based on python and you can use it to clone any website's fronten
 #How to run it? 
 
 
-maharshi@online:~ git clone 
+maharshi@online:~ git clone https://github.com/maharshikushwaha/clone.git
 
 maharshi@online:~ sudo apt install python3
 
